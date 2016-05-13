@@ -89,7 +89,7 @@ Public Class Form1
             '  MsgBox("App Created")
         End If
 
-        Dim wait As Integer = 500
+        Dim wait As Integer = 1000
 
 
         Process.Start("CMD")
